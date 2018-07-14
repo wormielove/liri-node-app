@@ -2,7 +2,7 @@
   "name": "liri-node-app",
   "version": "1.0.0",
   "description": "",
-  "main": "liri-node-app.js",
+  "main": "keys.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,11 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/wormielove/liri-node-app.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/wormielove/liri-node-app/issues"
   },
-  "homepage": "https://github.com/wormielove/liri-node-app#readme"
+  "homepage": "https://github.com/wormielove/liri-node-app#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
 }
