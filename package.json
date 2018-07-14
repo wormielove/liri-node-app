@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/wormielove/liri-node-app#readme",
   "dependencies": {
+    "dotenv": "^6.0.0",
     "twitter": "^1.7.1"
   }
 }
